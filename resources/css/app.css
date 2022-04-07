@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'bootstrap';
+.markers-table{
+    width: 100%;
+}
+.markers-table th,
+.markers-table td{
+    text-align: left;
+}
